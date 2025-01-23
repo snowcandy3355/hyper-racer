@@ -1,0 +1,4 @@
+repository "hyper-racer@snowcandy3355@cloud"
+  path "/"
+    br "/main"
+    co "/main"
